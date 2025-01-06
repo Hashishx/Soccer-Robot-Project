@@ -1,3 +1,5 @@
+![Picture1](https://github.com/user-attachments/assets/529aa5c5-8562-4a32-8c40-b589a69a1033)
+
 Autonomous Robot with Mobile Camera Integration
 This repository contains the code and documentation for an autonomous robot system. The robot navigates towards a red object using a mobile camera, which communicates with a server to process the object’s position and send movement commands to the robot via an ESP8266 module.
 
@@ -11,6 +13,7 @@ Features
 Autonomous navigation toward a red object.
 Real-time object detection and movement.
 Wireless communication between server and robot using UDP protocol.
+
 Modular design with separate responsibilities for the camera, server, and robot.
 System Architecture
 Camera:
