@@ -30,7 +30,6 @@ The ESP8266 receives commands from the server over UDP.
 Controls two DC motors to move the robot forward, backward, left, or right.
 Stops the motors when no command is received.
 
-How It Works
 The camera captures a live video feed and sends it to the server.
 The server processes the video in real time to detect the red object's position using image processing.
 Based on the red object's position, the server determines the robot's movement and sends commands via UDP.
